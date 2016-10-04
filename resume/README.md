@@ -14,9 +14,13 @@
 		* aan Artevelde hogeschool
 3. bijkomende opleiding
 	* animator in het jeugdwerk
-		* bij roeland
+		* bij Roeland
 
 ## ervaringen
 1. stages
+    * BoFiBa bvba 
 2. studentenjobs
+    * On semiconductor
+    * The Roserie  
 3. jeugdwerk
+    * Animator tijdens taalkampen (engels)
