@@ -1,8 +1,15 @@
 #Alexander Vlachakis - resume
 ## Persoonlijke details
+* Alexander Constantine Ignace Vlachakis
 * adress: Akkerstraat 127 9700 Oudenaarde
 * telefoon: 055/30.10.07
 * geboortedatum: 05/07/1994
+* geslacht: Man
+* Nationaliteit: Belg
+* Burgelijke staat: alleenstaand
+* Telefoonnummer: 
+* E-mail: vlachakis.alex@gmail.com
+* Social Media: Facebook(Alexander Vlachakis)
 
 ## opleidingen
 1. secundaire opleiding
@@ -24,3 +31,9 @@
     * The Roserie  
 3. jeugdwerk
     * Animator tijdens taalkampen (engels)
+
+##Computerkennis
+* Software
+	* HTML/CSS
+	* Javafcript
+	* Visual Basic
