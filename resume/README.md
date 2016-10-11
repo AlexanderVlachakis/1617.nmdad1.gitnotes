@@ -34,6 +34,30 @@
 
 ##Computerkennis
 * Software
+	* photoshop
+	* Indesign
+	* Illustrator
+	
+* webtechnologie
 	* HTML/CSS
-	* Javafcript
-	* Visual Basic
+	* javascript
+
+* Programmeertalen
+	* visual Basics
+
+## Talenkennis
+* Nederlands (moedertaal)
+* Engels (moedertaal)
+* Frans (basis)
+* Duits (passieve kennis)
+
+## Overige
+* hobby's 
+	* Guitaar
+	* animaties maken
+
+* intresses
+	* Geschiedenis
+	* geologie
+	* politiek
+	
